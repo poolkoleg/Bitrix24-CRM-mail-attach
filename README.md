@@ -1,1 +1,5 @@
-# refactored-journey
+# Привязка писем к Контактам, Компаниям, Сделкам
+
+Подробнее в статье - http://alyssia.ru/bitrix24-mail-attach/
+
+	Занимаемся сложными интеграциями. Почта для связи - sales@alyssia.ru.
